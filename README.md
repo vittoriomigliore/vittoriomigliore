@@ -13,7 +13,7 @@ Address Book is a three-day project developed during the Tech Jobs Fair Challeng
 #### Tech stack:
 - **FE:** React, Bootstrap
 - **BE:** Laravel
-### 🍴 Access Control for Schools (In Progress) [📄 Repo](https://github.com/vittoriomigliore/access-control)
+### 🍴 Access Control for Schools [📄 Repo](https://github.com/vittoriomigliore/access-control)
 Access Control for Schools is an access control system designed for educational institutions, modernized from an outdated client-server architecture. It utilizes web technologies to ensure security and scalability while managing roles, permissions, and access flexibly. Features include role-based access control for teachers, students, and staff.
 #### Tech stack:
 - **FE:** Thymeleaf, Bootstrap

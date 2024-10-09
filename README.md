@@ -12,7 +12,7 @@ I am a passionate **Full-Stack Developer** with a strong focus on **Java-based t
 Address Book is a three-day project developed during the Tech Jobs Fair Challenge 2024 hackathon, focused on creating an MVP for a corporate phone directory for "TechSolutions Inc." The project aims to enhance communication and streamline contact management within the company. Key features include managing contacts, advanced search and filters, and an intuitive user interface. Additional functionalities like real-time updates and mobile integration aim to improve user experience and accessibility.  
 #### Tech stack:
 - **FE:** React, Bootstrap
-- **BE:** Laravel
+- **BE:** Laravel, MySQL
 ### 🍴 Access Control for Schools [📄 Repo](https://github.com/vittoriomigliore/access-control)
 Access Control for Schools is an access control system designed for educational institutions, modernized from an outdated client-server architecture. It utilizes web technologies to ensure security and scalability while managing roles, permissions, and access flexibly. Features include role-based access control for teachers, students, and staff.
 #### Tech stack:

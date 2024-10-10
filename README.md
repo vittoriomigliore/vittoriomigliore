@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Vittorio Migliore
 
-I am a passionate **Full-Stack Developer** with a strong focus on **Java-based technologies**. With years of experience building scalable and reliable applications, I enjoy working across the entire development stack — from crafting clean backend architectures to creating intuitive frontend experiences. My goal is to continuously improve code quality and deliver efficient, maintainable software solutions.
+Enthusiastic Software Engineer with 5+ years of experience in full-stack development.
+I help businesses reinforce software development teams by building robust solutions that meet client requirements and deliver measurable results.
+
+Technical Skills & Tools: Java, Spring Boot, Hibernate, ZK
+
+I am excited about opportunities to build robust software and ensure that best practices are followed throughout the software development lifecycle. 
+Feel free to reach out by sending a message!
 
 🌍 Based in **Bologna, Italy**.  
 

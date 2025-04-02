@@ -34,12 +34,12 @@ Though still in its early stages, this project lays the groundwork for future in
 #### Tech stack:
 - **FE:** Thymeleaf, Bootstrap
 - **BE:** Java 17, Spring Boot 3.3.0, Liquibase, H2 Database (sviluppo), Postgres (produzione) 
-### 🌎 Address Book [💻 Live Version](https://tech-jobs-fair-challenge-tea-git-e4c957-omars-projects-7352dc01.vercel.app/) [📄 Repo](https://github.com/tomorrowdevs-projects/tech-jobs-fair-challenge-team5)
+### 📒 Address Book [💻 Live Version](https://tech-jobs-fair-challenge-tea-git-e4c957-omars-projects-7352dc01.vercel.app/) [📄 Repo](https://github.com/tomorrowdevs-projects/tech-jobs-fair-challenge-team5)
 Address Book is a three-day project developed during the Tech Jobs Fair Challenge 2024 hackathon, focused on creating an MVP for a corporate phone directory for "TechSolutions Inc." The project aims to enhance communication and streamline contact management within the company. Key features include managing contacts, advanced search and filters, and an intuitive user interface. Additional functionalities like real-time updates and mobile integration aim to improve user experience and accessibility.  
 #### Tech stack:
 - **FE:** React, Bootstrap
 - **BE:** Laravel, MySQL
-### 🍴 Access Control for Schools [📄 Repo](https://github.com/vittoriomigliore/access-control)
+### 🪪 Access Control for Schools [📄 Repo](https://github.com/vittoriomigliore/access-control)
 Access Control for Schools is an access control system designed for educational institutions, modernized from an outdated client-server architecture. It utilizes web technologies to ensure security and scalability while managing roles, permissions, and access flexibly. Features include role-based access control for teachers, students, and staff.
 #### Tech stack:
 - **FE:** Thymeleaf, Bootstrap

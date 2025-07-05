@@ -25,7 +25,6 @@ Feel free to reach out by sending a message!
   </a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vittoriomigliore&theme=green)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## Projects
 ### 🌱 Agricultural Dashboard [💻 Live Version](https://agricultural-dashboard-agoi.onrender.com) [📄 Repo](https://github.com/vittoriomigliore/agricultural-dashboard)
 Agricultural Dashboard is a prototype developed for my university final project, aimed at providing an intuitive platform for monitoring and analyzing key metrics in the agricultural sector.  
